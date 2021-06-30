@@ -1,1 +1,5 @@
 # colours
+
+red
+blue
+green
